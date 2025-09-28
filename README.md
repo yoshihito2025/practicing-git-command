@@ -5,5 +5,6 @@
 - `git commit`
 - `git branch`
 - `git marge`
+- `git remote`
 - `git push`
 - `git pull`

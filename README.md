@@ -1,4 +1,6 @@
-# 覚えた Git コマンド
+# Git コマンドの実践
+
+覚えた Git コマンド
 
 - `git init`
 - `git add`
